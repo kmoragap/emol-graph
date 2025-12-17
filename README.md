@@ -1,5 +1,7 @@
 ## Mapping Connections in Chilean News
 
+![Graph Visualization](graph-example.jpeg)
+
 This project is a graph analysis tool that visualizes relationships between political figures, organizations, and institutions in Chile based on public news articles.
 
 ## Motivation
